@@ -22,4 +22,13 @@
     <link rel="stylesheet" href="/css/argon.css?v=1.2.0" type="text/css">
     <link href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css">
-
+<style>
+    .footer{
+        width: 94%;
+    }
+    .dataTables_filter input{
+        border: 1px solid black;
+        border-radius: 4px;
+        outline: none;
+    }
+</style>

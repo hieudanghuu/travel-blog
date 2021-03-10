@@ -102,7 +102,7 @@
                     },
             { data: 'title', name: 'title' },
             // { data: 'body', name: 'body' },
-            { data: 'slug', name: 'slug' },
+            // { data: 'slug', name: 'slug' },
             { data: 'created_at', name: 'created_at' },
             { data: 'action', name: 'action' }
         ]
